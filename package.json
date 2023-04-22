@@ -1,0 +1,17 @@
+{
+  "name": "college-football-betting-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cfb.js": "^4.3.2",
+    "cli-table3": "^0.6.3",
+    "dotenv": "^16.0.3",
+    "prompt-sync": "^4.2.0"
+  }
+}

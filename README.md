@@ -1,5 +1,7 @@
 # College-Football-Betting-Javascript
-![Logo](logo.png)
+<p align="center">
+  <img src="logo.png" />
+</p>
 
 ## Overview
 This repository contains source code allowing the user to simulate betting on American college football games in the terminal. It utilizes the [CFBD JavaScript API][1]. For more information regarding the CFBD APIs and databases, please refer to this [link][2]. This program offers the same functionality provided by the [College-Football-Betting-Python repository][4]. For more information about functionality, please refer to that repository.

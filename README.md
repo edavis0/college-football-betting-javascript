@@ -7,7 +7,7 @@
 This repository contains source code allowing the user to simulate betting on American college football games in the terminal. It utilizes the [CFBD JavaScript API][1]. For more information regarding the CFBD APIs and databases, please refer to this [link][2]. This program offers the same functionality provided by the [College-Football-Betting-Python repository][4]. For more information about functionality, please refer to that repository.
 
 ## Installation and Usage
-You can simply clone this reposity and run the script using accessing the app directory and running `node index.js`, assuming you have a [CFBD API key](https://collegefootballdata.com/key), created a .env file with a `api-token='<API-KEY>'` entry, and have Node installed. To install the required Node packages, run `npm install`.
+You can simply clone this reposity and run the script by accessing the app directory and running `node index.js`, assuming you have a [CFBD API key](https://collegefootballdata.com/key), created a .env file with a `api-token='<API-KEY>'` entry, and have Node installed. To install the required Node packages, run `npm install`.
 
 ## Bet Types
 Two bet types are used in this program: point spread bets and total point bets (also known as over/under bets). For more information regarding the mechanics of these bets, refer to this [link][3].
